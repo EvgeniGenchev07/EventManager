@@ -1,0 +1,15 @@
+C:\Users\Evgeni\OneDrive\Документи\GitHub\EventManager\EventManager.Core\bin\Debug\net9.0\EventManager.Core.deps.json
+C:\Users\Evgeni\OneDrive\Документи\GitHub\EventManager\EventManager.Core\bin\Debug\net9.0\EventManager.Core.runtimeconfig.json
+C:\Users\Evgeni\OneDrive\Документи\GitHub\EventManager\EventManager.Core\bin\Debug\net9.0\EventManager.Core.dll
+C:\Users\Evgeni\OneDrive\Документи\GitHub\EventManager\EventManager.Core\bin\Debug\net9.0\EventManager.Core.pdb
+C:\Users\Evgeni\OneDrive\Документи\GitHub\EventManager\EventManager.Core\obj\Debug\net9.0\EventManager.Core.csproj.AssemblyReference.cache
+C:\Users\Evgeni\OneDrive\Документи\GitHub\EventManager\EventManager.Core\obj\Debug\net9.0\EventManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgeni\OneDrive\Документи\GitHub\EventManager\EventManager.Core\obj\Debug\net9.0\EventManager.Core.AssemblyInfoInputs.cache
+C:\Users\Evgeni\OneDrive\Документи\GitHub\EventManager\EventManager.Core\obj\Debug\net9.0\EventManager.Core.AssemblyInfo.cs
+C:\Users\Evgeni\OneDrive\Документи\GitHub\EventManager\EventManager.Core\obj\Debug\net9.0\EventManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\Evgeni\OneDrive\Документи\GitHub\EventManager\EventManager.Core\obj\Debug\net9.0\EventManager.Core.sourcelink.json
+C:\Users\Evgeni\OneDrive\Документи\GitHub\EventManager\EventManager.Core\obj\Debug\net9.0\EventManager.Core.dll
+C:\Users\Evgeni\OneDrive\Документи\GitHub\EventManager\EventManager.Core\obj\Debug\net9.0\refint\EventManager.Core.dll
+C:\Users\Evgeni\OneDrive\Документи\GitHub\EventManager\EventManager.Core\obj\Debug\net9.0\EventManager.Core.pdb
+C:\Users\Evgeni\OneDrive\Документи\GitHub\EventManager\EventManager.Core\obj\Debug\net9.0\EventManager.Core.genruntimeconfig.cache
+C:\Users\Evgeni\OneDrive\Документи\GitHub\EventManager\EventManager.Core\obj\Debug\net9.0\ref\EventManager.Core.dll

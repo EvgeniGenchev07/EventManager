@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8EnTj3z0MEE=",
+  "dgSpecHash": "gJA8UQpoq0A=",
   "success": true,
-  "projectFilePath": "/home/evgeni/RiderProjects/EventManager/EventManager.API/EventManager.API.csproj",
+  "projectFilePath": "C:\\Users\\Evgeni\\OneDrive\\Документи\\GitHub\\EventManager\\EventManager.API\\EventManager.API.csproj",
   "expectedPackageFiles": [
-    "/home/evgeni/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
-    "/home/evgeni/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\Evgeni\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\Evgeni\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []
 }

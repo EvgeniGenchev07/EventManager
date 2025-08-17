@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/evgeni/RiderProjects/EventManager/EventManager.Core/EventManager.Core.csproj": {}
+    "C:\\Users\\Evgeni\\OneDrive\\Документи\\GitHub\\EventManager\\EventManager.Core\\EventManager.Core.csproj": {}
   },
   "projects": {
-    "/home/evgeni/RiderProjects/EventManager/EventManager.Core/EventManager.Core.csproj": {
+    "C:\\Users\\Evgeni\\OneDrive\\Документи\\GitHub\\EventManager\\EventManager.Core\\EventManager.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/evgeni/RiderProjects/EventManager/EventManager.Core/EventManager.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Evgeni\\OneDrive\\Документи\\GitHub\\EventManager\\EventManager.Core\\EventManager.Core.csproj",
         "projectName": "EventManager.Core",
-        "projectPath": "/home/evgeni/RiderProjects/EventManager/EventManager.Core/EventManager.Core.csproj",
-        "packagesPath": "/home/evgeni/.nuget/packages/",
-        "outputPath": "/home/evgeni/RiderProjects/EventManager/EventManager.Core/obj/",
+        "projectPath": "C:\\Users\\Evgeni\\OneDrive\\Документи\\GitHub\\EventManager\\EventManager.Core\\EventManager.Core.csproj",
+        "packagesPath": "C:\\Users\\Evgeni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Evgeni\\OneDrive\\Документи\\GitHub\\EventManager\\EventManager.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/evgeni/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Evgeni\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -51,6 +51,12 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )"
             }
           },
           "imports": [
@@ -69,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/evgeni/.dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

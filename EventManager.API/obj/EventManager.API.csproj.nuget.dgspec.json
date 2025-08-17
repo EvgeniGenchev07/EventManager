@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/evgeni/RiderProjects/EventManager/EventManager.API/EventManager.API.csproj": {}
+    "C:\\Users\\Evgeni\\OneDrive\\Документи\\GitHub\\EventManager\\EventManager.API\\EventManager.API.csproj": {}
   },
   "projects": {
-    "/home/evgeni/RiderProjects/EventManager/EventManager.API/EventManager.API.csproj": {
+    "C:\\Users\\Evgeni\\OneDrive\\Документи\\GitHub\\EventManager\\EventManager.API\\EventManager.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/evgeni/RiderProjects/EventManager/EventManager.API/EventManager.API.csproj",
+        "projectUniqueName": "C:\\Users\\Evgeni\\OneDrive\\Документи\\GitHub\\EventManager\\EventManager.API\\EventManager.API.csproj",
         "projectName": "EventManager.API",
-        "projectPath": "/home/evgeni/RiderProjects/EventManager/EventManager.API/EventManager.API.csproj",
-        "packagesPath": "/home/evgeni/.nuget/packages/",
-        "outputPath": "/home/evgeni/RiderProjects/EventManager/EventManager.API/obj/",
+        "projectPath": "C:\\Users\\Evgeni\\OneDrive\\Документи\\GitHub\\EventManager\\EventManager.API\\EventManager.API.csproj",
+        "packagesPath": "C:\\Users\\Evgeni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Evgeni\\OneDrive\\Документи\\GitHub\\EventManager\\EventManager.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/evgeni/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Evgeni\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -36,9 +36,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/evgeni/.dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Evgeni\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
